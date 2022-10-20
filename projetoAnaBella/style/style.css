@@ -1,0 +1,39 @@
+body{
+    background: #d2d2c1 url("../img/fundo.png");
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#divPrincipal{
+    border: 15px solid red;
+    align-items: center;
+    width: 900px;
+    
+
+}
+
+
+
+#divMenu{
+    background-color:  #c5c5b2;
+    border: 1px solid blue;
+    padding: 18px;
+}
+
+#divConteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+.centralizar{
+    text-align: center;
+}
+
+
+
